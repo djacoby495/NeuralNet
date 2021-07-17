@@ -1,0 +1,19 @@
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe.config
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.Form1.resources
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.Properties.Resources.resources
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\Daniel\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.pdb
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe.config
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\obj\Debug\NeuralNet.Form1.resources
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\obj\Debug\NeuralNet.Properties.Resources.resources
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\Daniel\Desktop\New folder (3)\NeuralNet\NeuralNet\obj\Debug\NeuralNet.pdb
